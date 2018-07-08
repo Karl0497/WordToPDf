@@ -1,1 +1,1 @@
-python "wordtopdf.py" %*
+python "C:/wordtopdf.py" %*
